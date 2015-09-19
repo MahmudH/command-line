@@ -1,0 +1,1 @@
+grep lets you search an input e.g. grep T will look for a pattern where anything with T in the file will be outputted
